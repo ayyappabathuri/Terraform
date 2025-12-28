@@ -1,4 +1,4 @@
-module "dev" {
+module "prod" {
   source = "../../code"
   rgname = "prodrg01"
   location = "central india"
